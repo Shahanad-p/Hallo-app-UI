@@ -67,7 +67,7 @@ class _GroupPageScreenState extends State<GroupPageScreen> {
     return Column(
       children: [
         ClipRRect(
-          borderRadius: BorderRadius.circular(10),
+          borderRadius: BorderRadius.circular(11),
           child: Image.asset(
             image,
             width: 400,
