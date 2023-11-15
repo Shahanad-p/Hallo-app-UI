@@ -71,7 +71,7 @@ class _GroupPageScreenState extends State<GroupPageScreen> {
           child: Image.asset(
             image,
             width: 400,
-            height: 200,
+            height: 201,
             fit: BoxFit.cover,
           ),
         ),
